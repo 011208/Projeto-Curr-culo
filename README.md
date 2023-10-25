@@ -1,2 +1,2 @@
-# Projeto-Curr-culo
+# Projeto-Curriculo
 CV Marco Aurélio Brito
